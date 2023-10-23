@@ -25,6 +25,7 @@ A simple Python script to generate QR codes from text or URLs.
 
 ## Installation
 1.Install the required packages:
+```bash
 pip install qrcode[pil]
 
 2.Clone the repository:
