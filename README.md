@@ -24,9 +24,13 @@ A simple Python script to generate QR codes from text or URLs.
 - [Pillow (PIL Fork)](https://pypi.org/project/Pillow/) for image handling (optional)
 
 ## Installation
+1.Install the required packages:
+pip install qrcode[pil]
 
-1. Clone the repository:
+2.Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/qrcode-generator.git
 cd qrcode-generator
+
+
