@@ -7,13 +7,10 @@ A simple Python script to generate QR codes from text or URLs.
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
-- Generate QR codes from text or URLs.
+- Generate QR codes from  URLs.
 - Specify the output image format (e.g., PNG, JPEG).
 - Customize QR code size and error correction level.
 
@@ -28,9 +25,8 @@ A simple Python script to generate QR codes from text or URLs.
 ```bash
 pip install qrcode[pil]
 
-2.Clone the repository:
+#Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/qrcode-generator.git
 cd qrcode-generator
 
